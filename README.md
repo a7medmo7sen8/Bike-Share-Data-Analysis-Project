@@ -1,4 +1,5 @@
 🚲 Bike Share Data Analysis Project
+
 📌 Project Overview:
 
 An end-to-end data analysis project focused on uncovering insights from a bike share company’s operations. The project combines data cleaning, SQL-based modeling, ETL processing, and interactive visualization.
