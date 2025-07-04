@@ -23,7 +23,3 @@ It walks through the full data pipeline — from raw data cleaning to visual sto
 > - 🚴 **Price optimization**: Ride price increased from **$3.99** → **$4.99**  
 > - ⚙️ **Operational efficiency**: COGS only rose from **$1.24** → **$1.56** per ride
 
----
-
-## 📁 Project Structure
-
